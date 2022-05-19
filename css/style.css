@@ -37,11 +37,11 @@ body {
   }
 
   .x {
-    color: tomato;
+    color: rgb(227, 169, 9);
   }
 
   .o {
-    color: #33DBFF;
+    color: #0a8ca9;
   }
 
   .header {
